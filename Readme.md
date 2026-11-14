@@ -5,7 +5,7 @@
 
 - **Ism:** Shahrizoda
 - **Familiya:** Rahmatova
-- **Yosh:** 15
+- **Yosh:** 14
 - **Viloyat:** Farg'ona
 - **Tuman:** Farg'ona
 
